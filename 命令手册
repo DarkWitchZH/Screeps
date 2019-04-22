@@ -1,0 +1,5 @@
+安全模式
+Game.spawns['Spawn1'].room.controller.activateSafeMode();
+塔楼
+Game.spawns['Spawn1'].room.createConstructionSite( 23, 22, STRUCTURE_TOWER );
+人物
